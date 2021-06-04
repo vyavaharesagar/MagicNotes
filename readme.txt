@@ -1,0 +1,1 @@
+This is the Simple Note website made using Bootstrap and JavaScript
